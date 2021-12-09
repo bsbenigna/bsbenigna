@@ -1,4 +1,4 @@
-### Olá!Seja bem-vindo👋
+### Olá! Seja bem-vindo 👋
 
 <!--
 **bsbenigna/bsbenigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
