@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Be-Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-   <img align="center" alt="Be-csharp" height="70" width="70" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
+  <img align="center" alt="Be-csharp" height="70" width="70" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
   
 
 </div>
