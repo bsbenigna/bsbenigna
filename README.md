@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Be-csharp" height="60" width="60" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
+  <img align="center" alt="Be-csharp" height="40" width="40" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
 
 </div>
