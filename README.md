@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Be-csharp" height="30" width="30" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
-  <img align="center" alt="Be-java" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Be-java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Be-js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Be-Ts" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Be-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
