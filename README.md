@@ -1,4 +1,5 @@
 ### Olá! Seja bem-vindo 👋
+Soua a
 
 <!--
 **bsbenigna/bsbenigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Be-csharp" height="50" width="50" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
+  <img align="center" alt="Be-csharp" height="40" width="40" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
