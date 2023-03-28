@@ -1,5 +1,5 @@
 ### Olá! Seja bem-vindo 👋
-Soua a
+
 
 <!--
 **bsbenigna/bsbenigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Be-csharp" height="40" width="40" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-
+  <img align="center" alt="Be-csharp" height="30" width="30" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
+  <img align="center" alt="Be-java" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Be-js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Be-Ts" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Be-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Be-CSS" height="20 width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
 </div>
 
 ##
